@@ -47,9 +47,9 @@ pyarrow==19.0.0
 pydeck==0.9.1
 Pygments==2.19.1
 pyparsing==3.2.1
-python-dateutil
+python
 pytz==2025.1
-pywin32==308
+pywin32
 pyzmq==26.2.1
 referencing==0.36.2
 requests==2.32.3
