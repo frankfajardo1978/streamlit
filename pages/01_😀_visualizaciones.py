@@ -12,7 +12,7 @@ import sys
 
 
 if st.checkbox("mostrar texto"):
-    st.write('MARICO EL QUE LO LEA')
+    st.write('ALEJANDRO ROMERO ES GAY')
 
 data = pd.read_csv('Vehicle_Fuel_Economy_Optimized (1).csv')
 
