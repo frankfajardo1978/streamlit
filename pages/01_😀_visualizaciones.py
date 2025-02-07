@@ -12,7 +12,7 @@ import sys
 
 
 if st.checkbox("mostrar texto"):
-    st.write('Elias esta cagando')
+    st.write('MARICO EL QUE LO LEA')
 
 data = pd.read_csv('Vehicle_Fuel_Economy_Optimized (1).csv')
 
